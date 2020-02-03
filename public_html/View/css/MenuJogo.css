@@ -1,0 +1,60 @@
+.Form1{
+    width: 100%;
+    text-align: center;
+    margin-top: 1em;
+}
+.radios{
+    display: inline-block;
+    vertical-align: top;
+    width: 1em;
+}
+
+.ModoDeJogo{
+    width: 100%;
+    font-size: 3em;
+    text-align: center;
+    color: #FFFF00;
+    text-shadow: black 2px 3px;
+    margin-bottom: 1em;
+}
+
+.ImgAudio{
+    margin-top: 3em;
+    margin-right: 5em;
+    margin-left: 70em;
+
+}
+
+.Dificuldade{
+    width: 100%;
+    font-size: 3em;
+    text-align: center;
+    color: #FFFF00;
+    text-shadow: black 2px 3px;
+    margin-bottom: 1em;
+    margin-top: 1em;
+
+}
+label{
+    width: 100%;
+    text-align: center;
+    color: #FFFF00;
+    text-shadow: black 2px 3px;
+    font-size: 25px;
+
+}
+
+.button{
+    border-top: 1px solid #b8a10d;
+    background: #FFFF00;
+    width: 15%;
+    height: 2em;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,1) 0 1px 0;
+    text-shadow: rgba(0,0,0,.4) 0 1px 0;
+    color: #000000;
+    font-size: 19px;
+    font-family: 'Arial';
+    margin-top: 3em;
+    margin-bottom: 4em;
+}

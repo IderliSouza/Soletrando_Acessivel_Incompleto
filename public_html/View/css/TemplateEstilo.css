@@ -1,0 +1,13 @@
+.quadro{
+    /*border-width: 50px;
+    border-color: #fff;
+    border-style: solid;*/
+    width: 98%;
+    height: 600px;
+    background-image: url(../..//Imagens/quadro.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: absolute;
+   
+
+}
